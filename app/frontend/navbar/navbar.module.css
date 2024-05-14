@@ -1,0 +1,46 @@
+.body{
+    background-color: rgba(201, 141, 201, 0.884);
+
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+   
+    
+    background-color: blueviolet;
+    padding-top: 20px;
+    padding-bottom: 20PX;
+}
+.logo{
+    font-size:24px;
+    font-weight: 900;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.search{
+    margin-left: 0px;
+    padding: 20px;
+
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.menuItem{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.menuItem li{
+    list-style: none;
+    text-decoration: none;
+    
+}
+.cart{
+    padding: 20px;
+}

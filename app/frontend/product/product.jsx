@@ -35,7 +35,7 @@ const Product = ({}) => {
     <div className={styles.content}>
         <div className={styles.card}>
           <div className={styles.img}>
-            <img className={styles.image} src="/avatar.png" layout="cover"></img>
+            <img className={styles.image} src="/avatar.png" layout=""></img>
           </div>
           <div className={styles.desc}>
             <div className={styles.title}>WITCH SPELL</div>

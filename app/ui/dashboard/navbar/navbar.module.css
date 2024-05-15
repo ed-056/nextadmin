@@ -49,5 +49,5 @@
     border-radius: 10px;
 }
 .icon li:hover{
-    background-color: #bfc1c542;
+    background-color:var(--bgsoft);
 }
